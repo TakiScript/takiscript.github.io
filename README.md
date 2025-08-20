@@ -1,7 +1,39 @@
-<!-- trigger republish -->
-<h1 style="margin-bottom: 5px;">Hello, world! 
+<h1 style="margin-bottom: 5px;">Hello, I'm Taki
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h1>
+
+I’m an enthusiastic developer and community builder. Feel free to connect!
+
+- ✉️ **Email:** [takiscript@gmail.com](mailto:takiscript@gmail.com)  
+- 💬 **Discord:** [TakiScript](https://discord.com/users/754676438099034142) 
+- 🌐 **Website / Portfolio:** [takiscript.ai](https://takiscript.github.io) 
+
+---
+
+> **“Waaf~”** 🐾
+
+<!--
+### 😂 Random Jokes
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+ ## Hi there 👋
+
+
+**TakiScript/TakiScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ```python
 # I love Python
@@ -32,9 +64,12 @@ print(monty_python.gif)
 </p>
 
 <!-- Top Languages -->
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakiScript&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Taki's top languages" />
 </p>
+
+
+
 
 <!-- 
 ### 🌐 Connect with Me:
