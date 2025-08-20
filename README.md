@@ -1,6 +1,6 @@
-<h1 style="margin-bottom: 5px;">Hello, I'm Taki
+<h2 style="margin-bottom: 5px;">Hello, I'm Taki
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
-</h1>
+</h2>
 
 I’m an enthusiastic developer and community builder. Feel free to connect!
 
