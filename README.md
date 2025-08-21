@@ -1,7 +1,6 @@
-<h2>
-  Hello, I'm Taki <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" />
+<h2 style="margin-bottom: 5px;">Hello, I'm Taki
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h2>
-
 
 I’m an enthusiastic developer and community builder. Feel free to connect!
 
@@ -42,34 +41,12 @@ print(monty_python.gif)
 ```
 
 ### 🛠 Languages and Tools:
-<p>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <!-- Debian -->
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40"/>
-  </a>
-
-  <!-- Tux / Linux Generic -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=debian,linux,py,flask,git,github,vscode,pycharm,replit)](https://skillicons.dev)
 
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakiScript&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Taki's top languages" />
 </p>
-
-
 
 
 <!-- 
